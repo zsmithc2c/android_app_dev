@@ -18,6 +18,8 @@ In Lesson 8, you will create a User Profile section for your app, set up navigat
 - Working Firebase project with Authentication enabled
 - Your `google-services.json` file configured in your project
 
+> **Important (GitHub users):** The `google-services.json` file is not included in this repo because it contains Firebase project credentials unique to each student. If you downloaded this code from GitHub, you must add your own `google-services.json` file to the `app/` directory before building. You can download it from your [Firebase Console](https://console.firebase.google.com/) under **Project Settings > General > Your apps > google-services.json**.
+
 ---
 
 ## Step 1: Create the ProfileActivity
