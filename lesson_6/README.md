@@ -25,6 +25,8 @@ The **completed/** folder contains the finished state after all steps below are 
 
 > **Note:** The code uses the package name `com.example.lesson3`. Your project may use a different package name. Wherever you see `com.example.lesson3`, substitute your own package name.
 
+> **Important (GitHub users):** The `google-services.json` file is not included in this repo because it contains Firebase project credentials unique to each student. If you downloaded this code from GitHub, you must add your own `google-services.json` file to the `app/` directory before building. You can download it from your [Firebase Console](https://console.firebase.google.com/) under **Project Settings > General > Your apps > google-services.json**.
+
 ---
 
 ## Step-by-Step Guide
